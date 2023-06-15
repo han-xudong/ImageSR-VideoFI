@@ -1,4 +1,4 @@
-# Image_Super_Resolution_and_Frame_Interpolation
+# Image Super Resolution and Video Frame Interpolation
 
 ## Summary
 The project realized the image super-resolution based onbicubic interpolation and SRCNN, and also realized the frame interpolation based on phase-based method. And a friendly GUI was created. The project achieved the expected target with practicability. Further, it can be optimized in terms of computing speed, training set, and neural network, so as to provide a better experience.
